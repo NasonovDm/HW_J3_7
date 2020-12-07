@@ -1,4 +1,5 @@
 public class MyClass {
+
     @BeforeSuite
     public void init() {
         System.out.println("init");
